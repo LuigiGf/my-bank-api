@@ -1,0 +1,24 @@
+{
+  "name": "my-bank-api",
+  "version": "1.0.0",
+  "description": "I tried to learn how to make an API backend using mongoDBAtlas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiGf/my-bank-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiGf/my-bank-api/issues"
+  },
+  "homepage": "https://github.com/LuigiGf/my-bank-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
